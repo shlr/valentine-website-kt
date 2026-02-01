@@ -92,7 +92,7 @@ body {
     right: 20px;
     margin-top: 0;
     opacity: 0.9;
-    transition: opacity 0.3s;
+    transition: opacity 0.8s;
     transform: scale(0.7);
     z-index: 2;
     animation: subtle-hint 2s infinite alternate;
